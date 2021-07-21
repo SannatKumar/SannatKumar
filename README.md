@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**SannatKumar/SannatKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Experience with Node.js, Python, ASP.NET Core, PHP, HTML, CSS,
 
 - 🔭 I’m currently working on Node.js to create beautiful backends.
 - 🌱 I’m currently learning Redux & TypeScript.
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my code I have done.
 - 📫 How to reach me:
 - ⚡ Fun fact: 
--->
+
