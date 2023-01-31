@@ -9,7 +9,8 @@ I am very much motivated to learn new things around web technologies, IOT and Em
 - 🤔 I am looking for coder friends to share and exchange experience and ideas.
 - 💬 Ask me about my code I have done.
 - 📫 Phone Number: 0449427068
-- ⚡ Fun fact: I Code.
+- ⚡ Fun fact: I am working with some hobby projects with MCU.
+  
 
 
 ![Githubs](https://user-images.githubusercontent.com/16445277/164623065-e4ccbf09-22f6-44f7-9d61-42fe54314da8.jpg)
